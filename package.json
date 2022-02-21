@@ -22,5 +22,13 @@
     "Bootstrap",
     "Gulp"
   ],
-  "author": "Donovan Eliosa"
+  "author": "Donovan Eliosa",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tackless/05-Udemy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tackless/05-Udemy/issues"
+  },
+  "homepage": "https://github.com/Tackless/05-Udemy#readme"
 }
